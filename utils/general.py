@@ -76,18 +76,18 @@ def download_checkpoints(repo_id="UKBB-Foundational-Models/ViTa",
 
     # List files in repo
     ckpt_files = [
-        "downstream_clas_vita_cad.ckpt", 
-        "downstream_clas_vita_diabetes.ckpt", 
-        "downstream_clas_vita_high_blood_pressure.ckpt",
-        "downstream_clas_vita_hypertension.ckpt",
-        "downstream_clas_vita_infarct.ckpt",
-        "downstream_clas_vita_stroke.ckpt",
-        "downstream_pred_vita_agewhenattendedassessmentcentre.ckpt",
-        "downstream_pred_vita_allindicators.ckpt",
-        "downstream_pred_vita_allphenotypes_lax.ckpt",
-        "downstream_pred_vita_allphenotypes_sax.ckpt",
-        "downstream_seg_mae_allax.ckpt",
-        "pretrain_mae_allax.ckpt",
+        # "downstream_clas_vita_cad.ckpt", 
+        # "downstream_clas_vita_diabetes.ckpt", 
+        # "downstream_clas_vita_high_blood_pressure.ckpt",
+        # "downstream_clas_vita_hypertension.ckpt",
+        # "downstream_clas_vita_infarct.ckpt",
+        # "downstream_clas_vita_stroke.ckpt",
+        # "downstream_pred_vita_agewhenattendedassessmentcentre.ckpt",
+        # "downstream_pred_vita_allindicators.ckpt",
+        # "downstream_pred_vita_allphenotypes_lax.ckpt",
+        # "downstream_pred_vita_allphenotypes_sax.ckpt",
+        # "downstream_seg_mae_allax.ckpt",
+        # "pretrain_mae_allax.ckpt",
         "pretrain_vita.ckpt"
         ]
 
